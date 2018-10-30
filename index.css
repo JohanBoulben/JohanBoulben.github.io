@@ -1,0 +1,76 @@
+body{
+    font-family       : sans-serif;
+    font-size         : 15pt;
+    text-align        : center;
+    background-color  : #760f0f;
+    color             :#FFFFFF;
+}
+
+.box {
+    margin           : 50px auto;
+    Padding          : 20px 20px 80px 20px;
+    width            : 900px;
+    height           : 150px;
+    background-color : #edfaff;
+    text-align       : center;
+    display: block;
+    background-image : url(damierhr.jpg);
+}
+.box2 {
+    display: block;
+    float: left;
+    width: 45%;
+    padding: 30px;
+    text-align   : justify;
+    font-size: 12pt;
+}
+a:hover{
+    background-color: #191ffc;
+}
+h4{
+    text-align: center;
+}
+div.box2 p{
+    float: left;
+}
+
+
+
+.box a{
+    display: block;
+    text-decoration: none;
+}
+
+a:link{
+    color: #000000;
+}
+
+a:visited{
+    color: #000000;
+
+}
+.paragraphs{
+    float: left;
+}
+.box3 {
+    display          : block;
+    margin           : 620px auto;
+    font-size        : 10pt;
+    Padding          : 20px 20px 20px 20px;
+    width            : 900px;
+    height           : 1680px;
+    background-color : #ffffe6;
+    text-align       : center;
+    background-image : url(damierhr.jpg);
+    color             : #000000;
+}
+
+
+.footer {
+    background-color : #ffffe6;
+    text-align       : center;
+    background-image : url(damierhr.jpg);
+    Padding          : 30px;
+    height           : 17px;
+    color            : black;
+}
